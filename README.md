@@ -1,6 +1,8 @@
 # CLI-app
 
-https://ibb.co/n3b2jQc
-https://ibb.co/Yty3Qjt
-https://ibb.co/vj8qShw
-https://ibb.co/Dp0JqH0
+## Screenshots
+
+![App Screenshot](https://ibb.co/n3b2jQc)
+![App Screenshot](https://ibb.co/Yty3Qjt)
+![App Screenshot](https://ibb.co/vj8qShw)
+![App Screenshot](https://ibb.co/Dp0JqH0)
