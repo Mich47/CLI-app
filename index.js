@@ -20,7 +20,7 @@ function invokeAction({ action, id, name, email, phone }) {
       break;
 
     case "get":
-      contacts.getContactById(id).then(console.lr);
+      contacts.getContactById(id).then(console.log);
       break;
 
     case "add":
